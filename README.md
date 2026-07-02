@@ -107,7 +107,7 @@ shl-assessment-agent/
 * Create .env file
 ```env
 LLM_API_KEY=your_google_api_key
-LLM_MODEL=gemini-2.0-flash-exp
+LLM_MODEL=gemini-3.5-flash
 LLM_PROVIDER=gemini
 LOG_LEVEL=INFO
 ```
